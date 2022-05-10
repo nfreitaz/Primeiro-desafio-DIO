@@ -8,7 +8,7 @@
 
 ### Exemplos de linguagens de programação
 
-​	Alguma delas são: Javascript, C++**, **Ruby, PHP**, **Python**, **Java e C# são exemplos de linguagens de programação.
+​	Alguma delas são: Javascript, C++, Ruby, PHP, Python, Java e C# são exemplos de linguagens de programação.
 
 
 
